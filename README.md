@@ -1,2 +1,3 @@
-# Layla_mood
-App en Flutter (mod Layla/MLSChat) para compilar en Android , Primer proyecto Flutter subido desde Android
+# Chat IA Flutter
+
+Proyecto de prueba en Flutter para compilar en Android y PC.
